@@ -56,3 +56,7 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'rspec'
+gem 'bullet'
+gem 'simplecov'
+gem 'rspec-rails'
+
